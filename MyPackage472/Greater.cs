@@ -8,9 +8,9 @@ namespace MyPackage472
 {
     public class Greater
     {
-        public void SayHello()
+        public string SayHello(string name)
         {
-            Console.WriteLine("Hello");
+            return string.Format($"Hello {name}", name);
         }
     }
 }
