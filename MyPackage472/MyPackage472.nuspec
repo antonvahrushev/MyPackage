@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MyCompany.Utils.MyPackage472</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>My Package 472</title>
     <authors>Anton V.</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -10,7 +10,7 @@
     <projectUrl>http://mysite.se/</projectUrl>
     <iconUrl>http://mysite.se/</iconUrl>
     <description>My best package inthe world</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Make greater more nice.</releaseNotes>
     <copyright>Copyrigth 2020</copyright>
     <tags>test package nuget</tags>
   </metadata>

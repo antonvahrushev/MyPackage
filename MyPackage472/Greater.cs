@@ -10,7 +10,7 @@ namespace MyPackage472
     {
         public string SayHello(string name)
         {
-            return string.Format($"Hello {name}", name);
+            return string.Format($"Hello my dear {name}", name);
         }
     }
 }

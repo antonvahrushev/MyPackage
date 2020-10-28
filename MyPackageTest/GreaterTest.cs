@@ -11,7 +11,7 @@ namespace MyPackageTest
         public void SayHelloTest()
         {
             var greater = new Greater();
-            Assert.AreEqual("Hello Anton", greater.SayHello("Anton"));
+            Assert.AreEqual("Hello my dear Anton", greater.SayHello("Anton"));
         }
     }
 }

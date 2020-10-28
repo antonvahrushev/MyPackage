@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPackage472", "MyPackage47
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPackageTest", "MyPackageTest\MyPackageTest.csproj", "{A773A926-1C3B-47C6-B0B2-2511DD3FF18D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DF5316D8-72F9-4568-985F-52833D2A96B1}"
+	ProjectSection(SolutionItems) = preProject
+		MyPackage472\MyPackage472.nuspec = MyPackage472\MyPackage472.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
