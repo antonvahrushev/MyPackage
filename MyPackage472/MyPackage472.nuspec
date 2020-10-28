@@ -2,16 +2,18 @@
 <package >
   <metadata>
     <id>MyCompany.Utils.MyPackage472</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <title>My Package 472</title>
     <authors>Anton V.</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>http://mysite.se/</projectUrl>
-    <iconUrl>http://mysite.se/</iconUrl>
     <description>My best package inthe world</description>
-    <releaseNotes>Make greater more nice.</releaseNotes>
+    <releaseNotes>Added target framework 4.7.2.</releaseNotes>
     <copyright>Copyrigth 2020</copyright>
     <tags>test package nuget</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
   </metadata>
 </package>
